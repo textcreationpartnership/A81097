@@ -1,0 +1,696 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Q.F.Q.Q.S. A new fiction, as wee were A.I.M.E.I.M.I.D.2.F.4. The scene at Whtie-Hall. Antetruhand (in imagination) by some of Powle Fernlists under St. Tichburn-Crosse, in a way of prognostication. A.R.D.N.R.C.2.12.M.H.4.D.I.P.M. H.I.M. Circ. 59. Anno libertatis christianæ, 1626. Stylo novo. Personæ. Protestation. Common-Prayer, Allegiance. Sr. Solemn League and Covenant. Engagement. Instrument. Constables, Beadles, &amp;c. Chorus of By-Standers.</title>
+            <author>Croxton, James.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81097</idno>
+            <idno type="STC">Wing C7414</idno>
+            <idno type="STC">Thomason E1088_3</idno>
+            <idno type="STC">ESTC R208555</idno>
+            <idno type="EEBO-CITATION">99867498</idno>
+            <idno type="PROQUEST">99867498</idno>
+            <idno type="VID">169381</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81097)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169381)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 162:E1088[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Q.F.Q.Q.S. A new fiction, as wee were A.I.M.E.I.M.I.D.2.F.4. The scene at Whtie-Hall. Antetruhand (in imagination) by some of Powle Fernlists under St. Tichburn-Crosse, in a way of prognostication. A.R.D.N.R.C.2.12.M.H.4.D.I.P.M. H.I.M. Circ. 59. Anno libertatis christianæ, 1626. Stylo novo. Personæ. Protestation. Common-Prayer, Allegiance. Sr. Solemn League and Covenant. Engagement. Instrument. Constables, Beadles, &amp;c. Chorus of By-Standers.</title>
+                  <author>Croxton, James.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.C. for the Author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCLXI. [1661]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: J.C.</note>
+                  <note>Annotation on Thomason copy: "Aprill 20".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Political satire, English --  17th century.</term>
+               <term>Great Britain --  Politics and government --  1660-1688 --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169381:1" rendition="simple:additions"/>
+            <p>Q. F. F. Q. S. A New Fiction, As Wee were: A. I. M. E. 1. M. 1. D. 2. F. 4. The Scene <hi>WHITE-HALL.</hi>
+            </p>
+            <p>
+               <hi>ANTETRUHAND</hi> (in imagination) by ſome of <hi>Powle Fernliſts</hi> under St. <hi>Tichburn-Croſſe,</hi> in a way of PROGNOSTICATION.</p>
+            <p>
+               <hi>A. R. D. N. R. C.</hi> 2.12. <hi>M. H.</hi> 4. <hi>D.</hi> 1. <hi>P. M. H.</hi> 1. <hi>M. Circ.</hi> 59.</p>
+            <p>
+               <hi>Anno Libertatis Chriſtianae,</hi> 1626. <hi>Stylo novo.</hi>
+            </p>
+            <list type="dramatis_personae">
+               <head>PERSONAE.</head>
+               <item>
+                  <hi>Proteſtation.</hi>
+               </item>
+               <item>
+                  <hi>Common-Prayer,</hi>
+               </item>
+               <item>
+                  <hi>Allegiance.</hi>
+               </item>
+               <item>Sr. <hi>Solemn League and Covenant.</hi>
+               </item>
+               <item>
+                  <hi>Engagement.</hi>
+               </item>
+               <item>
+                  <hi>Inſtrument.</hi>
+               </item>
+               <item>
+                  <hi>Conſtables, Beadles, &amp;c.</hi>
+               </item>
+               <item>
+                  <hi>Chorus of By-ſtanders.</hi>
+               </item>
+            </list>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. C.</hi> for the Author, MDCLXI.</p>
+         </div>
+      </front>
+      <body>
+         <div type="political_drama">
+            <pb facs="tcp:169381:2"/>
+            <pb n="1" facs="tcp:169381:2"/>
+            <head>A New Fiction, As We were.</head>
+            <head type="sub">JORNADA 1.</head>
+            <stage>
+               <hi>Enter (as at two Doors)</hi> Proteſtation <hi>and</hi> Common-prayer.</stage>
+            <sp>
+               <speaker>Prot.</speaker>
+               <p>'TIs even ſo!</p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>Good old friend <hi>Proteſtation.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>Old <hi>Common-prayer!</hi> By what new Order? C.</p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>Even — Enter (as after <hi>Common-prayer</hi>) <hi>Allegiance.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Well met all three, Let this be Diurnall'd.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>In good time. But as you were ſaying.</p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>Even the ſame that was from the beginning. The Law has new taken breath: and I am bound (ye know) to take notice of it.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>Good,</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Very good I trow. Come, Friends all now. Is't not?</p>
+            </sp>
+            <stage>Enter (as after <hi>Proteſtation</hi>) Sr. <hi>Solemn.</hi>
+            </stage>
+            <sp>
+               <speaker>S.</speaker>
+               <l>All making Friends</l>
+               <l>What then becomes of Covenants bleſſed ends?</l>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>What ſay you, Sir? Have we not yet had ends enough? I hope you would not, or you ſhall not ſee yet an utter end of All.</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>Of all Impi<g ref="char:EOLhyphen"/>ety and Prophanneſs though.</p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>Agreed.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Agreed.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>Agreed</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>Agreed by all! How can this be? You, <hi>Proteſtation,</hi> not for Popery.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Nor I.</p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>Nor I.</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>Nor you? nor you? I fear.</p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>But we fear nothing.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>We're on ſure ground.</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>Con<g ref="char:EOLhyphen"/>demn'd.</p>
+            </sp>
+            <sp>
+               <speaker>Ambo.</speaker>
+               <p>Unheard.</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <l>The Bill (you know) was found.</l>
+               <l>One ſpeaks not out Supremacy: the other</l>
+               <l>Plainly draws down the Daughter from the Mother.</l>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <l>Where was Supremacy, when you found that Bill?</l>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <l>In Parliament And there it will be ſtill.</l>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <l>With the Kings Headſhip. Thus far <hi>Papiſts</hi> go,</l>
+               <l>Come you not ſhort of them. In doing ſo</l>
+               <l>You juſtifie, what yet you would condemn.</l>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <l>We juſtifie our ſelves, gainſt you and them.</l>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <l>Let Popery ſtand or fall. All's one to me,</l>
+               <l>Excepted in your Bill from Popery.</l>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <l>In ſome reſpect. But yet you are not free.</l>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <l>Till faulty found by juſt Supremacy.</l>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <l>In's lawful Politick capacity.</l>
+            </sp>
+            <stage>Enter Engage<g ref="char:EOLhyphen"/>ment.</stage>
+            <sp>
+               <speaker>A.</speaker>
+               <p>See you but who comes here?</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>We <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> him not. He has in us no part, nor <hi>Scot,</hi> nor <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </p>
+            </sp>
+            <pb n="2" facs="tcp:169381:3"/>
+            <sp>
+               <speaker>E.</speaker>
+               <l>Yet, by your leave, as good an intereſt.</l>
+               <l>In a free King and Parliament, as the beſt.</l>
+               <l>Shall the whole Body ſcor-free hoiſe up ſaile?</l>
+               <l>And the Lot fall ſo heavy on the Taile?</l>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <l>You ſpeak, as if you lately came from School;</l>
+               <l>A Camiſado of the Birchin tool.</l>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <l>Has that old Ape tranſported you ſo ſoon;</l>
+               <l>To make you all turn Mimikes the firſt Moon?</l>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>Which of us chang'd?</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <l>Y'are changling Monkeys all,</l>
+               <l>Fye on this mock-ſhow This is your <hi>Whites-Hall.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>Now 'tis out Is't not?</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <l>Out and let it be,</l>
+               <l>Out, or In, <hi>All;</hi> Excepted none for me.</l>
+               <l>It is a common Caſe, The cauſe ye know)</l>
+               <l>The good Old Cauſe, the ſame for weal and Woe:</l>
+               <l>The Cauſe was yours, firſt; deny it not:</l>
+               <l>Then, yours; and carried on with Scot and Lot.</l>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>Who were the Keepers of our Liberties?</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <l>who acted in your Kings Capacities?</l>
+               <l>Prerogative and Legal. To proceed,</l>
+               <l>Is not to innovate, when once agreed.</l>
+               <l>For, or againſt: I did but proſecute,</l>
+               <l>What you began; <hi>I</hi> did but execute,</l>
+               <l>What you deſign'd.</l>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <l>To lay aſide (for ſhame;)</l>
+               <l>The power; both name and thing!</l>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <l>The very ſame.</l>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <l>O. times!</l>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <l>
+                  <hi>I;</hi> Times they were indeed, that by degrees.</l>
+               <l>Drew out the Brewing to the very Lees.</l>
+               <l>The Lees you like not; yet the Barme, your own;</l>
+               <l>So was the Brewer too; as will be ſhown.</l>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>Hee's drunk.</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>Tis then with pledging you.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <l>you drank,</l>
+               <l>Too deep.</l>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <l>All was but what was left, I thank</l>
+               <l>You for'<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Twas but a very little Snuff,</l>
+               <l>
+                  <hi>I</hi> was well ſatisfy'd you had enough.</l>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <l>Oh impudence! Did we not all we might.</l>
+               <l>To hinder ſuch wrong doing and keep Right?</l>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <l>You did indeed keep all the right you cou'd.</l>
+               <l>But why ſhou'd you have all? yet 'tis made good,</l>
+               <pb n="3" facs="tcp:169381:3"/>
+               <l>This very act was yours: next to be done.</l>
+               <l>As near a kin, as Father is to Son.</l>
+               <l>For, ſtand we not upon one bottome all?</l>
+               <l>One common Principle elenchical!</l>
+               <l>Common-Supremacy: the Peoples right:</l>
+               <l>The Commons due, clear as the Noon-day light.</l>
+               <l>You, <hi>Proteſtation,</hi> firſt began to ſtride,</l>
+               <l>Before what ever ſince was laid aſide.</l>
+               <l>One common <hi>Juno</hi> is our Mother known:</l>
+               <l>Withour a <hi>Jove,</hi> ſuch Martial brood to own.</l>
+               <l>'Twas you, who firſt Declar'd the Name of King,</l>
+               <l>Whileſt you Uſurpt the power, an uſeleſs thing.</l>
+               <l>The Beaſt from Horns to Hoofs is ſtill the ſame:</l>
+               <l>From Forty one to Fifty. And the Name</l>
+               <l>Of Fifty nine ſhews, one Cow Calv'd us all.</l>
+               <l>Brothers, together let's or ſtand, or fall.</l>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <l>Brother us no Brothers, far from our intent,</l>
+               <l>We ever were for King and Parliament.</l>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <l>Ye were, ſo far as ſerv'd your turn to ſay,</l>
+               <l>You had his Office. But ſupply'd (<hi>I</hi> pray)</l>
+               <l>By whom? Who did <hi>Le Roys aviſera,</hi>
+               </l>
+               <l>Whileſt He was <hi>inter quatuor Maria?</hi>
+               </l>
+               <l>Oh! With what kindneſs you met at <hi>Edge-hill!</hi>
+               </l>
+               <l>How Love betwixt you ſhew'd his utmoſt skill!</l>
+               <l>What Complements 'twixt Him and your Gallant!</l>
+               <l>Your prime Gallant! But what! Here comes our laſt!</l>
+               <l>
+                  <stage>Enter <hi>Inſtrument.</hi>
+                  </stage> See, what a Noſe he has! <hi>I</hi> The worſt has paſt.</l>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <l>H'as ſmelt us out.</l>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <l>Smelt we ſo ſtrong of Blood!</l>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <l>He looks, as it he would be underſtood!</l>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <l>Beyond expreſſion. <hi>I.</hi> Hangs my Noſe in your <hi>light!</hi>
+               </l>
+               <l>Time was you follow'd it; and then went right:</l>
+               <l>When from the Riſing to the Setting Sun,</l>
+               <l>Clocks, Dialls, Glaſſes, meaſur'd all was done,</l>
+               <l>By this Majeſtick Standard of all motion;</l>
+               <l>The length of ev'ry ones days at my Devotion.</l>
+               <l>The longeſt hour of life and laſt of Death,</l>
+               <l>Kings, Lords and Commons ſhaddow'd by my breath.</l>
+               <pb n="4" facs="tcp:169381:4"/>
+               <l>I pray'd and preach'd, I faſted and I fought:</l>
+               <l>And never reſted whilſt for you I wrought.</l>
+               <l>For you (I ſay) by you, and with you all,</l>
+               <l>All that I did, I did; in great and ſmall.</l>
+               <l>You threw out Kingſhip; I maintain'd your Act:</l>
+               <l>The Cards were often ſhuffeld, often pact.</l>
+               <l>Then came I up: your ſervant of the Sword,</l>
+               <l>Hight Conſtable. Me thinks you ſhould afford</l>
+               <l>Some better meaſure to ſo good a friend,</l>
+               <l>Who made and kept your Peace unto the end.</l>
+               <l>You know, I was no lawful Magiſtrate:</l>
+               <l>But Sing'lat Miniſter of a lawleſſe Stare.</l>
+               <l>Thus am I but your Creature. Why ſhould you,</l>
+               <l>Making your own peace, make ſo much ado</l>
+               <l>To hinder mine? 'Twas you good <hi>Proteſtation,</hi>
+               </l>
+               <l>Firſt took me in, to ſave your reputation.</l>
+               <l>And well you might. You onely could maintaine,</l>
+               <l>God and the King, againſt the Pope and <hi>Spain.</hi>
+               </l>
+               <l>So much you had retrench'd your former Vow,</l>
+               <l>Made at the Font, (as I may tell you now)</l>
+               <l>Againſt the whole malignant World; not that</l>
+               <l>Spot only, which brought up ſome elviſh Brat</l>
+               <l>Of that old Whore of <hi>Babylon.</hi> By which breach.</l>
+               <l>My then-new-Sainted Horſe let in to Preach,</l>
+               <l>Taught your caſt Serving-men and Tapſters, how</l>
+               <l>To ſtand their ground, and win the maſterie.</l>
+               <l>Great was the Company of Preachers then:</l>
+               <l>Kings with their Armies then began to flee.</l>
+               <l>My Horſe and I had thanks. Thus you may ſee,</l>
+               <l>How Right at firſt gave Might, then Might made Right:</l>
+               <l>Your Right to let me in to get your Might:</l>
+               <l>Your Armies firſt; and then your Parliaments.</l>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <l>What? Will he ne'r ha'done?</l>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <l>Theſe <hi>Inſtruments.</hi>
+               </l>
+               <l>Of your Commands have taught you to obey.</l>
+            </sp>
+            <sp>
+               <speaker>I.</speaker>
+               <l>I'm almoſt out of breath: yet this ſhall ſay,</l>
+               <l>Your Might ſo got made new Right ev'ry way.</l>
+               <l>If you were Right; How could I then be wrong?</l>
+               <l>The Spirit you acted by in me was ſtrong.</l>
+               <pb n="5" facs="tcp:169381:4"/>
+               <l>That be my Charge. What you had in projection,</l>
+               <l>'Twas I alone that brought unto perfection.</l>
+               <l>I was in Covenant with your Spirit: the Letter</l>
+               <l>I left to ſuch who underſtood no better.</l>
+               <l>'Twas that enabled me to work ſuch wonders;</l>
+               <l>Strange even to your ſelves, as Sky-clear-thunders.</l>
+               <l>It was a Noon-day Spirit, with new Light</l>
+               <l>Through ſo much darkneſſe guided us aright.</l>
+               <l>He led us all. Your ſelves confeſs'd it oft:</l>
+               <l>Whileſt ſome admir'd, others vainly Scoft.</l>
+               <l>You vail'd; I knew Him well; I did in truth:</l>
+               <l>H' was my Familiar, in very ſooth.</l>
+               <l>He gave and took that all-commanding breath,</l>
+               <l>Which in theſe Noſtrils gave the Law to death.</l>
+               <l>My time being come, our Covenants well t'agree,</l>
+               <l>That Spirits acting left the world with me.</l>
+               <l>Now the Tide's turn'd: Rivers do now run back,</l>
+               <l>Over my Head laid low, through Hands grown ſlack,</l>
+               <l>To purge thy Heart out, (yet thou wilt not ſee,</l>
+               <l>The only help is wholly to agree)</l>
+               <l>Thou faithleſſe Land, accurſt <hi>Oceaena,</hi>
+               </l>
+               <l>Since th'art become one great <hi>Akeldama.</hi>
+               </l>
+               <l>God and the King depos'd by th' Peoples Right,</l>
+               <l>Have try'd Leviathans utmoſt lawleſs might.</l>
+               <l>Think not, your hollow dawbing will endure,</l>
+               <l>Be wiſe betime: Save, or Loſe all; be ſure;</l>
+               <l>For, though the King look only at th'effect;</l>
+               <l>Foregoing Cauſes God cannot neglect.</l>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <l>Hee's mad: and rants in King <hi>Cambyſes</hi> veine,</l>
+            </sp>
+            <sp>
+               <speaker>I.</speaker>
+               <l>The ſad Accomptant of your loſſe and Gaine.</l>
+               <l>To Saintſhip and Kingſhip-Conſpiracie:</l>
+               <l>An univerſal full Apoſtacy.</l>
+            </sp>
+            <stage>Exit Inſtrument.</stage>
+            <sp>
+               <speaker>A.</speaker>
+               <p>He has ſpoke ſence.</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>What? not the ſenſe o'th'Houſe.</p>
+            </sp>
+            <stage>
+               <hi>Irruunt</hi> Conſtables, Beadles, <hi>&amp;c.</hi>
+            </stage>
+            <sp>
+               <speaker>1. C.</speaker>
+               <p>What? Had they done?</p>
+            </sp>
+            <sp>
+               <speaker>2. C.</speaker>
+               <p>They're gone. I thought we ſhould make thee Houſe too hot for'm.</p>
+            </sp>
+            <sp>
+               <speaker>1. C.</speaker>
+               <p>What houſe?</p>
+            </sp>
+            <sp>
+               <speaker>2. C.</speaker>
+               <p>This, this ſame paltry Play-houſe of theirs. Your poyets (as they call um) why they will make you an Houſe of any thing,
+<pb n="6" facs="tcp:169381:5"/>and any thing of an Houſe, to ſerve their turn. Theſe Players (I have heard our Miniſter ſay) are in plain <hi>Greek</hi> ſuch very Hypo<g ref="char:EOLhyphen"/>crites.</p>
+            </sp>
+            <sp>
+               <speaker>1. <hi>B.</hi>
+               </speaker>
+               <p>Whoop Holliday! What have we here? <hi>George o'</hi> Horſe-back! Upon the Poſt there! Don't ye ſee?</p>
+            </sp>
+            <sp>
+               <speaker>2. <hi>B.</hi>
+               </speaker>
+               <p>For Gods ſake! How does he kill the Dragon?</p>
+            </sp>
+            <sp>
+               <speaker>1. <hi>B.</hi>
+               </speaker>
+               <p>E'en (as 't pleaſe the Painter, I'le warrant.</p>
+            </sp>
+            <sp>
+               <speaker>2. <hi>B.</hi>
+               </speaker>
+               <p>Ho! Whats this?</p>
+            </sp>
+            <sp>
+               <speaker>1. C.</speaker>
+               <p>An old Biſhops ſquare Cap. Is't not?</p>
+            </sp>
+            <sp>
+               <speaker>1. <hi>B.</hi>
+               </speaker>
+               <p>And here's another like it.</p>
+            </sp>
+            <sp>
+               <speaker>2. C.</speaker>
+               <p>A Judges, this; it ſhould be. Let's ſee. We han't loſt our labour yet.</p>
+            </sp>
+            <sp>
+               <speaker>1. C.</speaker>
+               <p>I believe, they had not quite done, they're gone in ſuch haſt.</p>
+            </sp>
+            <sp>
+               <speaker>2. C.</speaker>
+               <p>The fools had ne'r left their bawbles behind them, if they had not been frighted. What? a Vizzard too? Who was this for, trow? What a Noſe it has!</p>
+            </sp>
+            <sp>
+               <speaker>1. <hi>B.</hi>
+               </speaker>
+               <p>I would we could ha' lit but upon ſome of um.</p>
+            </sp>
+            <sp>
+               <speaker>2. <hi>B.</hi>
+               </speaker>
+               <p>I don't think, but if we light handſomely upon their Maſter over the way yonder, we ſhall make ſome good diſcovery yet among his Truhans.</p>
+            </sp>
+            <sp>
+               <speaker>1. <hi>B.</hi>
+               </speaker>
+               <p>Piſh! Hee's.</p>
+            </sp>
+            <sp>
+               <speaker>1. C.</speaker>
+               <p>Well neighbour, what has been the buſineſſe?</p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>Come if you'l walk away, I'le tell you.</p>
+            </sp>
+            <stage>
+               <hi>Abſcedunt</hi> Conſtables, Beadles, &amp;c.</stage>
+            <sp>
+               <speaker>Chorus of By-ſtanders.</speaker>
+               <p>VIVE LE ROY. 1660.</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="poem">
+            <head>Par l' Autheur.</head>
+            <lg>
+               <l>C'Eſt preſqu' en ce temps cy un mot celebrieux,</l>
+               <l>Par Grecs &amp; par Latins &amp; par des Hebrieux,</l>
+               <l>
+                  <hi>Jeſu</hi> de <hi>Nazaret</hi> &amp; <hi>Charles</hi> d'<hi>Angle</hi> terre,</l>
+               <l>La fin de l'un &amp; de l'autre, des meurtriers la guerre.</l>
+            </lg>
+            <closer>
+               <signed>J. C.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
